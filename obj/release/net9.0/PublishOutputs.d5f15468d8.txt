@@ -1,0 +1,7 @@
+D:\dolly\Azure204\learningapp\bin\publish\LearningApp.exe
+D:\dolly\Azure204\learningapp\bin\publish\appsettings.Development.json
+D:\dolly\Azure204\learningapp\bin\publish\appsettings.json
+D:\dolly\Azure204\learningapp\bin\publish\LearningApp.dll
+D:\dolly\Azure204\learningapp\bin\publish\LearningApp.deps.json
+D:\dolly\Azure204\learningapp\bin\publish\LearningApp.runtimeconfig.json
+D:\dolly\Azure204\learningapp\bin\publish\LearningApp.pdb
